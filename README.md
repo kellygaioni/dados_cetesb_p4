@@ -1,9 +1,3 @@
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introdução e Contexto
 
 Este estudo se relaciona ao Projeto Integrador 4 (PI4), envolve todos os alunos que ingressaram no segundo ciclo em Ciência de Dados e Engenharia de Computação da Universidade Virtual de São Paulo (Univesp), com a carga horária de 80 horas no semestre.
