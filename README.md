@@ -1,11 +1,4 @@
----
-title: "2024-PI4_Univesp"
-author: "Kobayashi&Kobayashi"
-date: "2024-09-01"
-output:
-  pdf_document: default
-  html_document: default
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
